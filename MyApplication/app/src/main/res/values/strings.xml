@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="settings_option1">Exit</string>
+    <string name="settings_option2">Monument Gallery</string>
+    <string name="show_gallery">Display the pictures of the Landmarks in Chicago contained in Chicago Landmarks application</string>
+
+    <string-array name="Titles">
+        <item>The Museum of Science and Industry</item>
+        <item>Wrigley Field</item>
+        <item>The Lincoln Park Zoo</item>
+        <item>Chicago Cultural Center</item>
+        <item>Millennium Monument</item>
+        <item>Willis Tower</item>
+    </string-array>
+
+    <string-array name="LandmarsUrl">
+        <item>https://www.msichicago.org/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_culturalcenter.html/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park_-artarchitecture.html</item>
+        <item>http://www.willistower.com/</item>
+    </string-array>
+
+</resources>
+
+    <!--the Museum of Science and Industry, Wrigley Field, the
+    Lincoln Park Zoo -->

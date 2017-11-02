@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="show_gallery">Display the pictures of the Landmarks in Chicago contained in Chicago Landmarks application</string>
+</resources>
